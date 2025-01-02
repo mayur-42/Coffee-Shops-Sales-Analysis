@@ -17,6 +17,13 @@ Discount Strategies: Introduce discounts or promotional offers on low-performing
 Inventory Optimization: Consider limiting in-store display of underperforming products, like merchandise clothing, and shift to an online order-only model. This can help reduce operational costs.
 
 # Data Story -
-This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
-[<img src="https://github.com/Shrutiijoshi/Maven_Movies_Rental/blob/main/mysql_logo.png" alt="myql-logo" width="150" height="100"/>]
-(https://github.com/Shrutiijoshi/Maven_Movies_Rental/blob/main/mysql_logo.png) &nbsp;
+## This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
+
+
+
+# Screenshot -
+
+
+<img src="https://github.com/mayur-42/Coffee-Shops-Sales-Analysis/blob/main/Coffee_Sales_Pic.PNG" alt="myql-logo" width="1000" height="500"/>
+
+          (https://github.com/mayur-42/Coffee-Shops-Sales-Analysis/blob/main/Coffee_Sales_Pic.PNG) &nbsp;
