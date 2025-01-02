@@ -18,3 +18,5 @@ Inventory Optimization: Consider limiting in-store display of underperforming pr
 
 # Data Story -
 This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
+[<img src="https://github.com/Shrutiijoshi/Maven_Movies_Rental/blob/main/mysql_logo.png" alt="myql-logo" width="150" height="100"/>]
+(https://github.com/Shrutiijoshi/Maven_Movies_Rental/blob/main/mysql_logo.png) &nbsp;
