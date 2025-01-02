@@ -16,4 +16,5 @@ Low-Performing Products: Certain flavors, coffee beans, and merchandise items sh
 Discount Strategies: Introduce discounts or promotional offers on low-performing products at the Astoria store to boost sales.
 Inventory Optimization: Consider limiting in-store display of underperforming products, like merchandise clothing, and shift to an online order-only model. This can help reduce operational costs.
 
-# Data Story - This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
+# Data Story -
+This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
